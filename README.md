@@ -11,7 +11,9 @@ The goal of this Repo is:
 * Submit the Repo's url to the course teacher.
 
 # Team info
-This project is maintained by IBRAHIM M.I ISMAIL & Yussuf Mohamed Mahdi of class SE 2017.
+陈冬卉-201732120102
+陈金龙-201732120112
+陈伟超-201732120113
 
 # Milestones
 * **2019-09:** Learning python programming language (old implementation was written in python)
